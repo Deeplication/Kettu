@@ -256,4 +256,4 @@ export const onUnload = () => {
 
 // Settings UI registration is typically done via a settings export.
 // Kettu can import settings component from settings.tsx.
-export { default as settings } from "./settings";
+export { default as settings } from "https://raw.githubusercontent.com/Deeplication/Kettu/refs/heads/main/call/settings.tsx" ;
